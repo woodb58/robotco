@@ -54,7 +54,7 @@ main {
 
 #hero {
   background: black;
-  background-image: url("../images/background.png");
+  background-image: url("./images/background.png");
   color: white;
   text-align: center;
   padding: 60px 15px;
@@ -65,4 +65,9 @@ main {
   border: 5px dotted #47a0ce;
   text-align: center;
   margin: 0 30px;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
 }
